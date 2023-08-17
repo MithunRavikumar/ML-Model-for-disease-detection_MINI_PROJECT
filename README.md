@@ -1,0 +1,1 @@
+# ML-Model-for-disease-detection_MINI_PROJECT
